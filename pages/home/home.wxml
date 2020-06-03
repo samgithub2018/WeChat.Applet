@@ -1,3 +1,6 @@
 <!--pages/home/home.wxml-->
 <text>hello world</text>
 <button size="muin">按钮</button>
+
+
+<text>测试tag2</text>
